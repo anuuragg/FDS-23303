@@ -1,21 +1,21 @@
 CarID,Make,Model,Year,EngineType,FuelType,Transmission,Drivetrain,Cylinders,Horsepower,Torque,TopSpeed,Acceleration,MPG_City,MPG_Highway,Doors,Seats,Color,InteriorMaterial,InfotainmentSystem,NavigationSystem,ParkingAssistSystem,CruiseControl,Warranty,Price
-1,Toyota,Camry,2023,Inline-4,Gasoline,Automatic,FWD,4,203,184,135,8.1,28,39,4,5,White,Leather,Touchscreen,Yes,Yes,Yes,3 years,$24,970
-2,Honda,Civic,2022,Inline-4,Gasoline,Manual,FWD,4,158,138,125,8.5,30,38,4,5,Blue,Cloth,Standard,Yes,Yes,Yes,3 years,$21,700
-3,Ford,Mustang,2023,V8,Gasoline,Automatic,RWD,8,450,410,155,4.5,15,24,2,4,Red,Leather,Touchscreen,Yes,Yes,Yes,5 years,$56,000
-4,Chevrolet,Malibu,2022,Inline-4,Gasoline,Automatic,FWD,4,160,184,130,8.2,29,36,4,5,Black,Leather,Touchscreen,Yes,Yes,Yes,3 years,$23,400
-5,BMW,3 Series,2023,Inline-6,Gasoline,Automatic,RWD,6,382,369,155,4.2,24,34,4,5,Silver,Leather,Touchscreen,Yes,Yes,Yes,4 years,$41,250
-6,Audi,A4,2023,Inline-4,Gasoline,Automatic,AWD,4,261,273,130,5.5,25,34,4,5,Grey,Leather,Touchscreen,Yes,Yes,Yes,4 years,$39,100
-7,Mercedes-Benz,C-Class,2023,Inline-4,Gasoline,Automatic,RWD,4,255,273,130,5.7,25,35,4,5,Black,Leather,Touchscreen,Yes,Yes,Yes,4 years,$44,850
-8,Hyundai,Elantra,2023,Inline-4,Gasoline,Automatic,FWD,4,147,132,120,9.0,31,41,4,5,White,Cloth,Standard,Yes,Yes,Yes,3 years,$20,950
-9,Subaru,Impreza,2023,Flat-4,Gasoline,Automatic,AWD,4,152,145,120,8.9,28,36,4,5,Red,Cloth,Standard,Yes,Yes,Yes,3 years,$19,795
-10,Tesla,Model 3,2023,Electric,Electric,Automatic,RWD,0,283,307,145,5.3,138,126,4,5,White,Leather,Touchscreen,Yes,Yes,Yes,4 years,$35,000
-11,Nissan,Altima,2023,Inline-4,Gasoline,Automatic,FWD,4,188,180,130,7.4,28,39,4,5,Grey,Leather,Touchscreen,Yes,Yes,Yes,3 years,$25,025
-12,Kia,Optima,2022,Inline-4,Gasoline,Automatic,FWD,4,185,178,130,7.5,27,37,4,5,Blue,Leather,Touchscreen,Yes,Yes,Yes,3 years,$23,400
-13,Mazda,6,2023,Inline-4,Gasoline,Automatic,FWD,4,187,186,130,7.3,26,35,4,5,Silver,Leather,Touchscreen,Yes,Yes,Yes,3 years,$24,475
-14,Volkswagen,Jetta,2023,Inline-4,Gasoline,Automatic,FWD,4,147,184,126,8.0,30,40,4,5,White,Cloth,Standard,Yes,Yes,Yes,3 years,$20,795
-15,Volvo,S60,2023,Inline-4,Gasoline,Automatic,FWD,4,250,258,130,5.9,23,34,4,5,Black,Leather,Touchscreen,Yes,Yes,Yes,4 years,$39,250
-16,Acura,TLX,2023,V6,Gasoline,Automatic,FWD,6,290,267,155,5.5,22,31,4,5,Blue,Leather,Touchscreen,Yes,Yes,Yes,4 years,$38,500
-17,Lexus,ES,2023,V6,Gasoline,Automatic,FWD,6,302,267,155,6.6,22,33,4,5,White,Leather,Touchscreen,Yes,Yes,Yes,4 years,$39,900
-18,Genesis,G70,2023,V6,Gasoline,Automatic,RWD,6,365,376,155,4.7,21,28,4,5,Grey,Leather,Touchscreen,Yes,Yes,Yes,5 years,$41,000
-19,Infiniti,Q50,2023,V6,Gasoline,Automatic,RWD,6,300,295,155,5.0,20,29,4,5,Black,Leather,Touchscreen,Yes,Yes,Yes,4 years,$42,100
-20,Jaguar,XE,2023,Inline-4,Gasoline,Automatic,RWD,4,247,269,155,6.2,25,34,4,5,Silver,Leather,Touchscreen,Yes,Yes,Yes,4 years,$39,900
+1,Toyota,Camry,2023,Inline-4,Gasoline,Automatic,FWD,4,203,184,135,8.1,28,39,4,5,White,Leather,Touchscreen,Yes,Yes,Yes,3 years,$24970
+2,Honda,Civic,2022,Inline-4,Gasoline,Manual,FWD,4,158,138,125,8.5,30,38,4,5,Blue,Cloth,,Yes,Yes,Yes,3 years,$21700
+3,Ford,Mustang,2023,V8,Gasoline,Automatic,RWD,8,450,410,155,4.5,15,24,2,4,Red,Leather,Touchscreen,Yes,Yes,Yes,5 years,$56000
+4,Chevrolet,Malibu,2022,Inline-4,Gasoline,Automatic,FWD,4,160,184,130,8.2,29,36,4,5,Black,Leather,Touchscreen,,Yes,Yes,3 years,$23400
+5,BMW,3 Series,,Inline-6,Gasoline,Automatic,RWD,6,382,369,155,4.2,24,34,4,5,Silver,Leather,,Yes,Yes,Yes,4 years,$41250
+6,Audi,A4,2023,Inline-4,Gasoline,Automatic,AWD,4,261,273,130,5.5,25,34,4,5,Grey,Leather,Touchscreen,Yes,Yes,Yes,4 years,$39100
+7,Mercedes-Benz,C-Class,2023,Inline-4,Gasoline,Automatic,RWD,4,255,273,130,5.7,25,35,4,5,Black,,Touchscreen,Yes,,Yes,4 years,$44850
+8,Hyundai,Elantra,2023,Inline-4,Gasoline,Automatic,FWD,4,147,132,120,9.0,31,41,4,5,,Cloth,Standard,Yes,Yes,Yes,3 years,$20950
+9,Subaru,Impreza,2023,Flat-4,Gasoline,,AWD,4,152,145,120,8.9,28,36,4,5,Red,Cloth,Standard,Yes,Yes,Yes,3 years,$19795
+10,Tesla,Model 3,2023,Electric,Electric,,RWD,0,283,307,145,5.3,138,126,4,5,White,Leather,Touchscreen,Yes,Yes,Yes,,$35000
+11,Nissan,Altima,2023,Inline-4,Gasoline,Automatic,FWD,4,188,180,130,7.4,28,39,4,5,Grey,,Touchscreen,,Yes,Yes,3 years,$25025
+12,Kia,Optima,2022,Inline-4,Gasoline,Automatic,FWD,4,185,178,130,7.5,27,37,4,5,Blue,Leather,Touchscreen,Yes,Yes,Yes,3 years,$23400
+13,Mazda,6,2023,Inline-4,,Automatic,FWD,4,187,186,130,7.3,26,35,4,5,,Leather,,Yes,Yes,Yes,3 years,$24475
+14,Volkswagen,Jetta,2023,Inline-4,Gasoline,,FWD,4,147,184,126,8.0,30,40,4,5,White,Cloth,,,Yes,Yes,3 years,$20795
+15,Volvo,S60,2023,Inline-4,Gasoline,,FWD,4,250,258,130,5.9,23,34,4,5,Black,,Touchscreen,Yes,Yes,Yes,4 years,$39250
+16,Acura,TLX,2023,V6,Gasoline,Automatic,FWD,6,290,267,155,5.5,22,31,4,5,Blue,Leather,,Yes,Yes,Yes,4 years,$38500
+17,Lexus,ES,2023,V6,Gasoline,Automatic,FWD,6,302,267,155,6.6,22,33,4,5,White,Leather,Touchscreen,Yes,Yes,Yes,4 years,$39900
+18,Genesis,G70,2023,V6,Gasoline,Automatic,RWD,6,365,376,155,4.7,21,28,4,5,Grey,Leather,Touchscreen,Yes,Yes,Yes,5 years,$41000
+19,Infiniti,Q50,2023,V6,Gasoline,Automatic,RWD,6,300,295,155,5.0,20,29,4,5,Black,Leather,Touchscreen,,Yes,,4 years,$42100
+20,Jaguar,XE,2023,Inline-4,Gasoline,,RWD,4,247,269,155,6.2,25,34,4,5,Silver,Leather,Touchscreen,Yes,Yes,Yes,4 years,$39900
